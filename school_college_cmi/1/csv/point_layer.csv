@@ -1,0 +1,270 @@
+gid,sub_code,namt,name,location_t,location_e,version,sourcethm,icon_url
+"62","47010",โรงเรียนแม่แก้ดน้อย,MAE KAET NOI SCHOOL,ถนนสหกรณ์,SAHAKON RD.,"1",Schools_landmark,./0.png
+"90","47010",โรงเรียนบ้านนางเหลียว,BAN NANG LIAO SCHOOL,,,"1",Schools_landmark,./0.png
+"139","47010",โรงเรียนบ้านแม่คือ,BAN MAE KHUE SCHOOL,,,"1",Schools_landmark,./0.png
+"1","47110",มหาวิทยาลัยแม่โจ้,MAEJO UNIVERSITY,ถนนบางเขน,BANG KHEN RD.,"1",university_landm,./0.png
+"2","47110",มหาวิทยาลัยแม่โจ้,MAEJO UNIVERSITY,ถนนบางเขน,BANG KHEN RD.,"1",university_landm,./0.png
+"3","47110",มหาวิทยาลัยเชียงใหม่,CHIANG MAI UNIVERSITY,ถนนนครพิงค์ 1,NAKORNPING 1 RD.,"1",university_landm,./0.png
+"4","47030",มหาวิทยาลัยพายัพ,PAYAP UNIVERSITY,,,"1",university_landm,./0.png
+"5","47110",มหาวิทยาลัยมหาจุฬาลงกรณ์ราชวิทยาลัยวิทยาเขตเชียงใหม่,MAHACHULALONGKORNRAJAVIDYALAYA UNIVERSITY CHIANG MAI CAMPUS,ถนนสุเทพ,SUTHEP RD.,"1",university_landm,./0.png
+"6","47110",มหาวิทยาลัยมหามกุฏราชวิทยาลัยวิทยาเขตล้านนา,"MAHAMAKUT BUDDHIST UNIVERSITY ; LANNA CAMPUS",ถนนพระปกเกล้า,PRAPOKKLAO RD.,"1",university_landm,./0.png
+"7","47110",มหาวิทยาลัยเที่ยงคืน,MIDNIGHT UNIVERSITY,,,"1",university_landm,./0.png
+"8","47030",วิทยาลัยพยาบาลบรมราชชนนีเชียงใหม่,"BOROMARAJONANI NURSING COLLEGE,CHIANG MAI",ทางหลวงแผ่นดินหมายเลข 121,HIGHWAY 121,"1",Wittayalai_landm,./0.png
+"9","47030",วิทยาลัยสารพัดช่างเชียงใหม่,CHIANG MAI POLYTECHNIC COLLEGE,ถนนห้วยแก้ว,HUAY KAEW RD.,"1",Wittayalai_landm,./0.png
+"10","47030",วิทยาลัยพลศึกษาเชียงใหม่,CHIANG MAI PHYSICAL EDUCATION COLLEGE,ถนนสนามกีฬา,SANAMKILA RD.,"1",Wittayalai_landm,./0.png
+"11","47030",วิทยาลัยเทคนิคเชียงใหม่,CHIANGMAI TECHNICAL COLLEGE,ถนนเวียงแก้ว,WIANG KAEW RD.,"1",Wittayalai_landm,./0.png
+"12","47030",วิทยาลัยอาชีวศึกษาเชียงใหม่,CHIANGMAI VOCATIONAL COLLEGE,ถนนพระปกเกล้า,PRAPOKKLAO RD.,"1",Wittayalai_landm,./0.png
+"13","47030",วิทยาลัยชุมชนล้านนา,LANNA COMMUNITY COLLEGE,ถนนสุริยะวงษ์,SURIYAWONGSE RD.,"1",Wittayalai_landm,./0.png
+"14","47030",วิทยาลัยนาฏศิลป์เชียงใหม่,CHIANG MAI COLLEGE OF DRAMATIC ARTS,ถนนสุริยะวงษ์,SURIYAWONGSE RD.,"1",Wittayalai_landm,./0.png
+"15","47030",วิทยาลัยพยาบาลบรมราชชนนีเชียงใหม่,"BOROMARAJONANI NURSING COLLEGE,CHIANG MAI",ถนนศรีจันทร์ดร,SRICHAN DON RD.,"1",Wittayalai_landm,./0.png
+"16","47030",วิทยาลัยฟาร์อิสเทอร์น,FAR EASTERN COLLEGE,ถนนบุญเรืองฤทธิ์ (กำลังก่อสร้าง),BOONRUANGRIT RD.,"1",Wittayalai_landm,./0.png
+"17","47030",วิทยาลัยเชียงใหม่บริหารธุรกิจนานาชาติ,CHIANGMAI INTER BUSSINESS COLLAGE,ถนนเชียงใหม่-ลำปาง,CHIANG MAI-LAMPANG RD.,"1",Wittayalai_landm,./0.png
+"18","47030",วิทยาลัยสารพัดช่างเชียงใหม่,CHIANG MAI POLYTECHNIC COLLEGE,ทางหลวงแผ่นดินหมายเลข 106,HIGHWAY 106,"1",Wittayalai_landm,./0.png
+"19","47030",วิทยาลัยนอร์ท-เชียงใหม่,NORTH-CHIANG MAI COLLEGE,,,"1",Wittayalai_landm,./0.png
+"20","47120",สถาบันเทคโนโลยีราชมงคลวิทยาเขตภาคพายัพ,RAJAMANOALA INSTITUTE OF TECHNOLOGY,ถนนห้วยแก้ว,HUAY KAEW RD.,"1",Institute_landma,./0.png
+"21","47120",สถาบันเทคโนโลยีราชมงคลวิทยาเขตพายัพ,"RAJAMANGALA INSTITUTE OF TECHNOLOGY,NORTHERN CAMPUS",ถนนเจ็ดยอด,CHET YOT RD.,"1",Institute_landma,./0.png
+"22","47130",สถาบันราชภัฎเชียงใหม่,RAJABHAT INSTITUTE CHIANG MAI,ถนนช้างเผือก,CHANG PHUAK RD.,"1",Institute_landma,./0.png
+"23","45200",สถาบันพระคริสต์ธรรมเชียงใหม่,CHIANG MAI CHRIST INSTITUTE,ถนนทุ่งโฮเต็ล,THUNG HOTEL RD.,"1",Institute_landma,./0.png
+"24","11000",สถาบันวิจัยวิทยาศาสตร์สุขภาพ,RESEARCH INSTITUTE FOR HEALTH SCIENCES,ถนนสาย 2,SAI 2 RD.,"1",Institute_landma,./0.png
+"25","47010",ศูนย์การศืกษานอกโรงเรียนจังหวัดเชียงใหม่,CHIANGMAI PROVINCIAL NON-PORMAL EDUCATION CENTRE,ทางหลวงแผ่นดินหมายเลข 107,HIGHWAY 107,"1",Education_center,./0.png
+"26","11050",ศูนย์การศึกษาพิเศษเขตการศึกษา 8 จังหวัดเชียงใหม่,"SPECIAL EDUCATION CENTER EDUCATION DISTRICT 8,CHIANG MAI",ทางหลวงแผ่นดินหมายเลข 121,HIGHWAY 121,"1",Education_center,./0.png
+"27","47010",ศูนย์การศึกษานอกโรงเรียนเอ็มพาวเวอร์,EMPOWER NON-FORMAL EDUCATION SCHOOL,ถนนทิพย์เนตร,TIPPANET RD.,"1",Education_center,./0.png
+"28","47010",โรงเรียนบ้านวังหมุ้น,BAN WANG MUN SCHOOL,,,"1",Schools_landmark,./0.png
+"29","47010",โรงเรียนบ้านแม่เตาไห (บุญมานิ่มนิวบุตร),BAN MAE TAO HAI SCHOOL (BUN MA NIM NIWABUT),ถนนเชียงใหม่-พร้าว,CHIANG MAI-PHRAO RD.,"1",Schools_landmark,./0.png
+"30","47010",โรงเรียนมูลนิธิมหาราช 5,MAHARAT 5 FOUNDATION SCHOOL,ทางหลวงแผ่นดินหมายเลข 1007,HIGHWAY 1007,"1",Schools_landmark,./0.png
+"31","47010",โรงเรียนบ้านป่าบง,BAN PA BONG SCHOOL,ถนนเชียงใหม่-พร้าว,CHIANG MAI-PHRAO RD.,"1",Schools_landmark,./0.png
+"32","47010",โรงเรียนแม่แรม,MAE RAEM SCHOOL,ถนนรพช. ชม. 4031 (บ้านนาฮี-บ้านแม่ขิ),RO PHO CHO. CHIANG MAI 4031 RD. (BAN NA HI-BAN MAE KHI),"1",Schools_landmark,./0.png
+"33","47010",โรงเรียนบ้านโปง,BAN PONG SCHOOL,ถนนรพช. ชม. 5257 (บ้านโปง-อ่างเก็บน้ำห้วยโจ้),RO PHO CHO. CHIANG MAI 5257 RD. (BAN PONG-HUAI CHO RESERVOIR),"1",Schools_landmark,./0.png
+"34","47010",โรงเรียนวัดน้ำต้น,WAT NAM TON SCHOOL,ทางหลวงแผ่นดินหมายเลข 1260,HIGHWAY 1260,"1",Schools_landmark,./0.png
+"35","47010",โรงเรียนสันทรายวิทยาคม,SAN SAI WITTHAYAKHOM SCHOOL,ถนนเชียงใหม่-พร้าว,CHIANG MAI-PHRAO RD.,"1",Schools_landmark,./0.png
+"36","47010",โรงเรียนวัดทรายมูล,WAT SAI MUN SCHOOL,ถนนสายแม่ริม-แม่โจ้,SAI MAE RIM-MAE CHO RD.,"1",Schools_landmark,./0.png
+"37","47040",โรงเรียนลิง,MONKEY SCHOOL,ทางหลวงแผ่นดินหมายเลข 1096,HIGHWAY 1096,"1",Schools_landmark,./0.png
+"38","47010",โรงเรียนแม่ริมวิทยาคม,MAE RIM WITTHAYAKHOM SCHOOL,ทางหลวงแผ่นดินหมายเลข 1096,HIGHWAY 1096,"1",Schools_landmark,./0.png
+"39","47010",โรงเรียนบ้านทุ่งโป่ง,BAN THUNG PONG SCHOOL,ทางหลวงแผ่นดินหมายเลข 1096,HIGHWAY 1096,"1",Schools_landmark,./0.png
+"40","47010",โรงเรียนชลประทานเขื่อนแม่กวงจิราธิวัฒน์อุปถัมภ์,CHONLAPRATHAN MAE KUANG KHUEAN CHIRATHIWAT UPPATHAM SCHOOL,ถนนโยธาธิการ ชม. 2054 (เส้นทางสายหมู่ที่ 1-หมู่ที่ 5),YOTHATHIKAN CHIANG MAI 2054 RD. (SEN THANG SAI MU 1-MU 5),"1",Schools_landmark,./0.png
+"41","47010",โรงเรียนแม่ริมวิทยา,MAE RIM WITTHAYA SCHOOL,ถนนเชียงใหม่-ฝาง,CHIANG MAI-FANG RD.,"1",Schools_landmark,./0.png
+"42","47010",โรงเรียนบ้านห้วยเกี๋ยง,BAN HUAI KIANG SCHOOL,ถนนเชียงใหม่-พร้าว,CHIANG MAI-PHRAO RD.,"1",Schools_landmark,./0.png
+"43","47010",โรงเรียนวัดขอนตาล,WAT KHON TAN SCHOOL,ถนนรพช. ชม. 4138 (บ้านต้นผึ้ง-บ้านป่าข่อยใต้),RO PHO CHO. CHIANG MAI 4138 RD. (BAN TON PHUENG-BAN PA KHOI TAI),"1",Schools_landmark,./0.png
+"44","47010",โรงเรียนธีรวัธน์บำเพ็ญ,THIRAWAT BAMPHEN SCHOOL,,,"1",Schools_landmark,./0.png
+"45","47010",โรงเรียนบ้านริมใต้,BAN RIM TAI SCHOOL,ถนนเชียงใหม่-ฝาง,CHIANG MAI-FANG RD.,"1",Schools_landmark,./0.png
+"46","47010",โรงเรียนอัมพวันประชาสามัคคี,AMPHAWAN PRACHA SAMAKKHI SCHOOL,ถนนโยธาธิการ ชม. (บ้านห้วยโจ้-บ้านแม่ใน),YOTHATHIKAN CHIANG MAI RD. (BAN HUAI CHO-BAN MAE NAI),"1",Schools_landmark,./0.png
+"47","47010",โรงเรียนบ้านต้นผึ้ง,BAN TON PHUENG SCHOOL,ถนนรพช. ชม. 4138 (บ้านต้นผึ้ง-บ้านป่าข่อยใต้),RO PHO CHO. CHIANG MAI 4138 RD. (BAN TON PHUENG-BAN PA KHOI TAI),"1",Schools_landmark,./0.png
+"48","47010",โรงเรียนวัดศรีบุญเรือง,WAT SI BUN RUEANG SCHOOL,,,"1",Schools_landmark,./0.png
+"49","47010",โรงเรียนบ้านแม่โจ้,BAN MAE CHO SCHOOL,ถนนเชียงใหม่-พร้าว,CHIANG MAI-PHRAO RD.,"1",Schools_landmark,./0.png
+"50","47010",โรงเรียนบ้านหนองบัว,BAN NONG BUA SCHOOL,ถนนโยธาธิการ ชม. (บ้านทุ่งข้าวตอก-บ้านดอยกำพร้า),YOTHATHIKAN CHIANG MAI RD. (BAN THUNG KHAO TOK-BAN DOI KAMPHRA),"1",Schools_landmark,./0.png
+"51","47010",โรงเรียนบ้านป่าไผ่,BAN PA PHAI SCHOOL,,,"1",Schools_landmark,./0.png
+"52","47010",โรงเรียนบ้านหนองกันครุ,BAN NONG KAN KHRU SCHOOL,ถนนโยธาธิการ ชม. (บ้านทุ่งข้าวตอก-บ้านห้วยฮักพัฒนา),YOTHATHIKAN CHIANG MAI RD. (BAN THUNG KHAO TOK-BAN HUAI HAK PHATTHANA),"1",Schools_landmark,./0.png
+"53","47010",โรงเรียนบ้านแม่สา,BAN MAE SA SCHOOL,ทางหลวงแผ่นดินหมายเลข 107,HIGHWAY 107,"1",Schools_landmark,./0.png
+"54","47010",โรงเรียนบ้านดอนตัน,BAN DON TAN SCHOOL,ถนนรพช. ชม. 4138 (บ้านต้นผึ้ง-บ้านป่าข่อยใต้),RO PHO CHO. CHIANG MAI 4138 RD. (BAN TON PHUENG-BAN PA KHOI TAI),"1",Schools_landmark,./0.png
+"55","47010",โรงเรียนบ้านทุ่งข้าวตอก,BAN THUNG KHAO TOK SCHOOL,ถนนโยธาธิการ ชม. (บ้านทุ่งข้าวตอก-บ้านดอยกำพร้า),YOTHATHIKAN CHIANG MAI RD. (BAN THUNG KHAO TOK-BAN DOI KAMPHRA),"1",Schools_landmark,./0.png
+"56","47010",โรงเรียนบ้านศรีวังธาร,BAN SRI WANG THAN SCHOOL,ถนนโยธาธิการ ชม. (บ้านศรีวังธารหมู่ที่ 8-บ้านป่าไผ่),YOTHATHIKAN CHIANG MAI RD. (BAN SI WANG THAN MU 8-BAN PA PHAI),"1",Schools_landmark,./0.png
+"57","47010",โรงเรียนบ้านหนองเต่าคำ,BAN NONG THAO KHAM SCHOOL,ถนนโยธาธิการ ชม. (บ้านหนองเต่าคำหมู่ที่ 2),YOTHATHIKAN CHIANG MAI RD. (BAN NONG TAO KHAM MU 2),"1",Schools_landmark,./0.png
+"58","47010",โรงเรียนบ้านสหกรณ์นิคม,BAN SAHAKON NIKHOM SCHOOL,ถนนเชียงใหม่-พร้าว,CHIANG MAI-PHRAO RD.,"1",Schools_landmark,./0.png
+"59","47010",โรงเรียนบ้านเมืองวะ,BAN MUEANG WA SCHOOL,ถนนรพช. ชม. 4033 (บ้านพยากน้อย-บ้านป่าเหมือด),RO PHO CHO. CHIANG MAI 4033 RD. (BAN PHAYAK NOI-BAN PA MUEAT),"1",Schools_landmark,./0.png
+"60","47010",โรงเรียนบ้านเมืองขอน,BAN MUEANG KHON SCHOOL,ถนนรพช. ชม. 4033 (บ้านพยากน้อย-บ้านป่าเหมือด),RO PHO CHO. CHIANG MAI 4033 RD. (BAN PHAYAK NOI-BAN PA MUEAT),"1",Schools_landmark,./0.png
+"61","47010",โรงเรียนบ้านทุ่งป่าเก็ด,BAN THUNG PA KET SCHOOL,ถนนรพช. ชม. 5199 (บ้านทุ่งป่าเก็ด-บ้านวังป้อง),RO PHO CHO. CHIANG MAI 5199 RD. (BAN THUNG PA KET-BAN WANG  PONG),"1",Schools_landmark,./0.png
+"63","47010",โรงเรียนบ้านดอนแก้ว,BAN DON KAEO SCHOOL,ถนนคอนกรีตเสริมเหล็กหมู่ที่ 2 ตำบลดอนแก้ว,MU 2 TAMBON DON KAEO CONCRETE SOEM LEK RD.,"1",Schools_landmark,./0.png
+"64","47010",โรงเรียนวัดบวกเปา,WAT BUAK PAO SCHOOL,ถนนโยธาธิการ ชม. (บ้านขัวสูง-บ้านขัวโก-บ้านหนองอึ่ง),YOTHATHIKAN CHIANG MAI RD. (BAN KHUA SUNG-BAN KHUA KO-BAN NONG UENG),"1",Schools_landmark,./0.png
+"65","47010",โรงเรียนบ้านหนองเขียว,BAN NONG KHIAO SCHOOL,ถนนรพช. ชม. 5138 (บ้านป่าข่อยใต้-บ้านหนองเขียว),RO PHO CHO. CHIANG MAI 5138 RD. (BAN PA KHOI TAI-BAN NONG KHIAO),"1",Schools_landmark,./0.png
+"66","47010",โรงเรียนบ้านป่าเหมือด,BAN PA MUEAT SCHOOL,ทางหลวงแผ่นดินหมายเลข 1001,HIGHWAY 1001,"1",Schools_landmark,./0.png
+"67","47010",โรงเรียนบ้านท่าเกวียน,BAN THA KWIAN SCHOOL,ถนนโยธาธิการ ชม. 2177 (บ้านท่าเกวียน-บ้านโป่ง),YOTHATHIKAN CHIANG MAI 2177 RD. (BAN THA KWIAN-BAN PONG),"1",Schools_landmark,./0.png
+"68","47010",โรงเรียนบ้านร้องขี้เหล็ก,BAN RONG KHI LEK SCHOOL,,,"1",Schools_landmark,./0.png
+"69","47010",โรงเรียนวัดสันต้นเปา,WAT SAN TON PAO SCHOOL,ถนนรพช. ชม. 4033 (บ้านพยากน้อย-บ้านป่าเหมือด),RO PHO CHO. CHIANG MAI 4033 RD. (BAN PHAYAK NOI-BAN PA MUEAT),"1",Schools_landmark,./0.png
+"70","47010",โรงเรียนบ้านหัวฝาย,BAN HUA FAI SCHOOL,,,"1",Schools_landmark,./0.png
+"71","47010",โรงเรียนวัดป่าข่อยใต้,WAT PA KHOI TAI SCHOOL,ถนนรพช. ชม. 5138 (บ้านป่าข่อยใต้-บ้านหนองเขียว),RO PHO CHO. CHIANG MAI 5138 RD. (BAN PA KHOI TAI-BAN NONG KHIAO),"1",Schools_landmark,./0.png
+"72","47010",โรงเรียนวัดแม่แก้ดหลวง,WAT MAE KAET LUANG SCHOOL,,,"1",Schools_landmark,./0.png
+"73","47010",โรงเรียนบ้านป่าก้าง,BAN PA KANG SCHOOL,ถนนโยธาธิการ ชม. 2002 (บ้านป่าค่าง),YOTHATHIKAN CHIANG MAI 2002 RD. (BAN PA KHANG),"1",Schools_landmark,./0.png
+"74","47010",โรงเรียนบ้านศาลา,BAN SALA SCHOOL,ทางหลวงแผ่นดินหมายเลข 107,HIGHWAY 107,"1",Schools_landmark,./0.png
+"75","47010",โรงเรียนบ้านสันป่าสัก,BAN SAN PA SAK SCHOOL,ถนนโยธาธิการ ชม. 2177 (บ้านท่าเกวียน-บ้านโป่ง),YOTHATHIKAN CHIANG MAI 2177 RD. (BAN THA KWIAN-BAN PONG),"1",Schools_landmark,./0.png
+"76","47010",โรงเรียนศึกษาสงเคราะห์เชียงใหม่,SUEKSA SONGKHRO CHIANG MAI SCHOOL,ทางหลวงแผ่นดินหมายเลข 107,HIGHWAY 107,"1",Schools_landmark,./0.png
+"77","47010",โรงเรียนวัดร้องอ้อ,WAT RONG O SCHOOL,ถนนสมโภชเชียงใหม่ 700 ปี,SOMPHOT CHIANG MAI 700 PI RD.,"1",Schools_landmark,./0.png
+"78","47010",โรงเรียนบ้านหนองไคร้,BAN NONG KHRAI SCHOOL,ถนนรพช. ชม. 4230 (หนองไคร้ศรีทรายมูล-ฟ้ามุ่ย),RO PHO CHO. CHIANG MAI 4230 RD. (NONG KHRAI SI SAI MUN-FA MUI),"1",Schools_landmark,./0.png
+"79","47010",โรงเรียนบ้านบ่อหิน,BAN BO HIN SCHOOL,ทางหลวงแผ่นดินหมายเลข 118,HIGHWAY 118,"1",Schools_landmark,./0.png
+"80","47010",โรงเรียนสันทรายหลวง,SAN SAI LUANG SCHOOL,ทางหลวงแผ่นดินหมายเลข 1001,HIGHWAY 1001,"1",Schools_landmark,./0.png
+"81","47010",โรงเรียนนวมินทราชูทิศพายัพ,NAWAMINTHARACHUTHIT PHAYAP SCHOOL,ทางหลวงแผ่นดินหมายเลข 121,HIGHWAY 121,"1",Schools_landmark,./0.png
+"82","47010",โรงเรียนบ้านป่าดู่,BAN PA DU SCHOOL,ถนนโยธาธิการ ชม. 2105,YOTHATHIKAN CHIANG MAI 2105 RD.,"1",Schools_landmark,./0.png
+"83","47010",โรงเรียนวัดท่ามะเดื่อ,WAT THA MADUEA SCHOOL,ถนนสมโภชเชียงใหม่ 700 ปี,SOMPHOT CHIANG MAI 700 PI RD.,"1",Schools_landmark,./0.png
+"84","47010",โรงเรียนบ้านพระนอน,BAN PHRA NON SCHOOL,ถนนโชตนา 28,CHOTANA LANE 28 RD.,"1",Schools_landmark,./0.png
+"85","47010",โรงเรียนบ้านถ้ำ,BAN THAM SCHOOL,ถนนโยธาธิการ ชม. 2105,YOTHATHIKAN CHIANG MAI 2105 RD.,"1",Schools_landmark,./0.png
+"86","47010",โรงเรียนบ้านหลักปัน,BAN LAK PAN SCHOOL,ทางหลวงแผ่นดินหมายเลข 118,HIGHWAY 118,"1",Schools_landmark,./0.png
+"87","47010",โรงเรียนแม่ย้อย,MAE YOI SCHOOL,ทางหลวงแผ่นดินหมายเลข 1001,HIGHWAY 1001,"1",Schools_landmark,./0.png
+"88","47010",โรงเรียนบ้านแม่ย้อยหลวง,BAN MAE YOI LUANG SCHOOL,ทางหลวงแผ่นดินหมายเลข 1001,HIGHWAY 1001,"1",Schools_landmark,./0.png
+"89","47010",โรงเรียนบ้านสันคะยอม,BAN SAN KHAYOM SCHOOL,ทางหลวงแผ่นดินหมายเลข 1001,HIGHWAY 1001,"1",Schools_landmark,./0.png
+"91","47010",โรงเรียนบ้านท่อเมืองลัง,BAN THO MUEANG LANG SCHOOL,ถนนป่าตัน,PA TON RD.,"1",Schools_landmark,./0.png
+"92","47010",โรงเรียนบ้านท่าหลุกสันทราย,BAN THA LUK SAN SAI SCHOOL,ถนนป่าตัน,PA TON RD.,"1",Schools_landmark,./0.png
+"93","47010",โรงเรียนบ้านสันต้นคู่,BAN SAN TON KHU SCHOOL,ถนนสันต้นคู่,SAN THON KHU RD.,"1",Schools_landmark,./0.png
+"94","47010",โรงเรียนบ้านสันศรี,BAN SAN SI SCHOOL,ถนนเชียงใหม่-แม่สรวย,CHIANG MAI-MAE SARUAI RD.,"1",Schools_landmark,./0.png
+"95","47010",โรงเรียนวัดสันทรายมูล,WAT SAN SAI MUN SCHOOL,ทางหลวงแผ่นดินหมายเลข 1001,HIGHWAY 1001,"1",Schools_landmark,./0.png
+"96","47020",โรงเรียนเทคโนโลยีและพานิชยการนครพิงค์,TECHNOLOGY AND PHANITCHAKAN NAKHON PHING COLLEGE,ถนนโชตนา,CHOTANA RD.,"1",Schools_landmark,./0.png
+"97","47040",โรงเรียนเชียงใหม่เวชรักษ์,CHIANG MAI WETCHARAK SCHOOL,ถนนโชตนา,CHOTANA RD.,"1",Schools_landmark,./0.png
+"98","47010",โรงเรียนบ้านสันต้นม่วงเหนือ,BAN SAN TON MUANG NUEA SCHOOL,ถนนโยธาธิการ ชม. 2008 (บ้านต้นเปา-บ้านน้ำแพร่),YOTHATHIKAN CHIANG MAI 2008 RD. (BAN TON PAO-BAN NAM PHRAE),"1",Schools_landmark,./0.png
+"99","47010",โรงเรียนบ้านป่าขุย,BAN PA KHUI SCHOOL,ถนนปัญญาศิริราษฎร์สามัคคี,PANYA SIRI RAT SAMAKKHI RD.,"1",Schools_landmark,./0.png
+"100","47010",โรงเรียนวัดขะจาว,WAT KHACHAO SCHOOL,ถนนป่าตัน,PA TON RD.,"1",Schools_landmark,./0.png
+"101","47020",โรงเรียนโปลีเทคนิคล้านนา,LANNA POLYTECHNIC SCHOOL,ถนนสุขเกษม,SUKKASEAM RD.,"1",Schools_landmark,./0.png
+"102","47010",โรงเรียนวัดข่วงสิงห์,WAT KHUANG SING SCHOOL,ถนนโชตนา,CHOTANA RD.,"1",Schools_landmark,./0.png
+"103","47020",โรงเรียนพาณิชยการล้านนาเชียงใหม่,LANNA CHIANG MAI COMMERCIAL COLLEGE,ถนนโพธาราม,PHOTHARAM RD.,"1",Schools_landmark,./0.png
+"104","47010",โรงเรียนวัดป่าตัน,WAT PA TAN SCHOOL,ถนนซุปเปอร์ไฮเวย์,SUPER HIGHWAY RD.,"1",Schools_landmark,./0.png
+"105","47010",โรงเรียนวัดเจ็ดยอด,WAT CHET YOT SCHOOL,ถนนเจ็ดยอด,CHET YOT RD.,"1",Schools_landmark,./0.png
+"106","47010",โรงเรียนวัดท่ารั้ว,WAT THA RUA SCHOOL,,,"1",Schools_landmark,./0.png
+"107","47010",โรงเรียนบ้านป่าเศร้า,BAN PA SAO SCHOOL,ถนนโยธาธิการ ชม. (สายป่าเหมือด-ยางทอง),YOTHATHIKAN CHIANG MAI RD. (SAI PA MUEAT-YANG THONG),"1",Schools_landmark,./0.png
+"108","47010",โรงเรียนวัดช่างเคี่ยน,WAT CHANG KHIAN SCHOOL,ทางหลวงแผ่นดินหมายเลข 121,HIGHWAY 121,"1",Schools_landmark,./0.png
+"109","47010",โรงเรียนสหวิทยาเขตอนุบาลเชียงใหม่,SAHA WITTHAYA KHET CHIANG MAI KINDERGARTEN,ทางหลวงแผ่นดินหมายเลข 121,HIGHWAY 121,"1",Schools_landmark,./0.png
+"110","47010",โรงเรียนสาธิตสถาบันราชภัฏเชียงใหม่,RAJABHAT CHIANG MAI DEMONSTRATION SCHOOL,ถนนหมื่นด้ามพร้าคต,MUANDAM PLAKOT RD.,"1",Schools_landmark,./0.png
+"111","47010",โรงเรียนสันพระเนตร,SAN PHRA NET SCHOOL,ถนนสันพระเนตร 1,SUN PLANATE 1 RD.,"1",Schools_landmark,./0.png
+"112","47010",โรงเรียนบ้านแม่คาว,BAN MAE KHAO SCHOOL,,,"1",Schools_landmark,./0.png
+"113","47010",โรงเรียนโสตศึกษาอนุสารสุนทร,ANUSARNSUNTHORN SCHOOL FOR THE DEAF,ถนนโสตศึกษา,SOTSUKSA RD.,"1",Schools_landmark,./0.png
+"114","47010",โรงเรียนสันติธรรม,SANTI THAM SCHOOL,ถนนมรกต,MORAKOT RD.,"1",Schools_landmark,./0.png
+"115","47010",โรงเรียนวัดป่าเหมือด,WAT PA MUEAT SCHOOL,ถนนโยธาธิการ ชม. 2008 (บ้านต้นเปา-บ้านน้ำแพร่),YOTHATHIKAN CHIANG MAI 2008 RD. (BAN TON PAO-BAN NAM PHRAE),"1",Schools_landmark,./0.png
+"116","47010",โรงเรียนเทศบาลวัดป่าแพ่ง,WAT PA PHAENG THETSABAN SCHOOL,ถนนรัตนโกสินทร์,RATTANAKOSIN RD.,"1",Schools_landmark,./0.png
+"117","47010",โรงเรียนเทพบดินทร์วิทยา,THEP BODIN WITTHAYA SCHOOL,ถนนสนามกีฬา,SANAMKILA RD.,"1",Schools_landmark,./0.png
+"118","47010",โรงเรียนเทศบาลวัดกู่คำ,WAT KU KHAM THETSABAN SCHOOL,ถนนเชียงใหม่-ลำปาง,CHIANG MAI-LAMPANG RD.,"1",Schools_landmark,./0.png
+"119","47020",โรงเรียนศรีธนาพาณิชย์การเทคโนโลยีเชียงใหม่,SRITANA COMMERCIAL TECHNOLOGY COLLEGE CHIANGMAI,ถนนห้วยแก้ว,HUAY KAEW RD.,"1",Schools_landmark,./0.png
+"120","47010",โรงเรียนโกวิทธำรงเชียงใหม่,KOWIT THAMRONG CHIANG MAI SCHOOL,ถนนช้างเผือก,CHANG PHUAK RD.,"1",Schools_landmark,./0.png
+"121","47010",โรงเรียนดาราวิทยาลัย,DARA WITTHAYALAI SCHOOL,ถนนแก้วนวรัฐ,KAEW NAWARAT RD.,"1",Schools_landmark,./0.png
+"122","47010",โรงเรียนเชตุพนศึกษา,CHETUPHON SUEKSA SCHOOL,ถนนเชตุพน,CHETOPHON RD.,"1",Schools_landmark,./0.png
+"123","47010",โรงเรียนปริ้นรอยัลวิทยาลัย,THE PRINCE ROYAL COLLEGE,ถนนเชตุพน,CHETOPHON RD.,"1",Schools_landmark,./0.png
+"124","47010",โรงเรียนสิริมงคลานุสรณ์,SIRI MANGKHALANUSON SCHOOL,ถนนมณีนพรัตน์,MANEENOPPARAT RD.,"1",Schools_landmark,./0.png
+"125","47010",โรงเรียนเทศบาลวัดเชียงยืน,WAT CHIANG YUEN THETSABAN SCHOOL,ถนนสนามกีฬา,SANAMKILA RD.,"1",Schools_landmark,./0.png
+"126","47010",โรงเรียนวรเชษฐอนุสรณ์,WORACHET ANUSON SCHOOL,ถนนมณีนพรัตน์,MANEENOPPARAT RD.,"1",Schools_landmark,./0.png
+"127","47010",โรงเรียนบ้านมอญ,BAN MON SCHOOL,ถนนสันพระเนตร 1,SUN PLANATE 1 RD.,"1",Schools_landmark,./0.png
+"128","47010",โรงเรียนปรินส์รอยแยลส์วิทยาลัย,PRINCE ROYAL ACADEMY,ถนนแก้วนวรัฐ,KAEW NAWARAT RD.,"1",Schools_landmark,./0.png
+"129","47010",โรงเรียนวารีเสริมปัญญา,VAREE INTELLINGENT PROGRAMS,ถนนแก้วนวรัฐ,KAEW NAWARAT RD.,"1",Schools_landmark,./0.png
+"130","47010",โรงเรียนบ้านเชิงดอยสุเทพ,BAN CHOENG DOI SUTHEP SCHOOL,ถนนสุเทพ,SUTHEP RD.,"1",Schools_landmark,./0.png
+"131","47010",โรงเรียนอนุศึกษา,ANU SUEKSA SCHOOL,ถนนราชภาคินัย,RATCHAPAKINAI RD.,"1",Schools_landmark,./0.png
+"132","47010",โรงเรียนเทศบาลวัดเกตการาม,WAT KETKARAM THETSABAN SCHOOL,ถนนเจริญราษฎร์,CHAROENRAD RD.,"1",Schools_landmark,./0.png
+"133","47010",โรงเรียนยุพราชวิทยาลัย,YUPPHARAT WITTHAYALAI SCHOOL,ถนนพระปกเกล้า,PRAPOKKLAO RD.,"1",Schools_landmark,./0.png
+"134","47010",โรงเรียนหอพระ,HO PHRA SCHOOL,ถนนสิงหราช,SINGHARAT RD.,"1",Schools_landmark,./0.png
+"135","47010",โรงเรียนจิตต์ภักดี,ATTAQWA SCHOOL,ถนนบำรุงราษฎร์,BUMRUNGRAT RD.,"1",Schools_landmark,./0.png
+"136","47010",โรงเรียนนานาชาตินครพายัพ,NAKORN PAYAP INTERNATIONAL SCHOOL,ถนนเชียงใหม่-ลำปาง,CHIANG MAI-LAMPANG RD.,"1",Schools_landmark,./0.png
+"137","47010",โรงเรียนพิงค์รัตน์,PHING RAT SCHOOL,ถนนมนตรี,MONTRI RD.,"1",Schools_landmark,./0.png
+"138","47010",โรงเรียนวัดหนองป่าครั่ง,WAT NONG PA KHRANG SCHOOL,ถนนธนุษย์พงษ์,THANUSPONG RD.,"1",Schools_landmark,./0.png
+"140","47010",โรงเรียนเทศบาลดอกเงิน,DOK NGOEN THETSABAN SCHOOL,ถนนชัยภูมิ,CHAIYAPHUM RD.,"1",Schools_landmark,./0.png
+"141","47010",โรงเรียนวัดสวนดอก,WAT SUAN DOK SCHOOL,ถนนสวนดอก,SUAN DOK RD.,"1",Schools_landmark,./0.png
+"142","47010",โรงเรียนคำเที่ยงอนุสรณ์,KHAM THIANG ANUSON SCHOOL,ถนนเจริญประเทศ,CHAROEN PRATHET RD.,"1",Schools_landmark,./0.png
+"143","47010",โรงเรียนธรรมราชศึกษา,THAMMARAT SUEKSA SCHOOL,ถนนสามล้าน,SAMLARN RD.,"1",Schools_landmark,./0.png
+"144","47010",โรงเรียนศรีลานนา,SI LANNA SCHOOL,ถนนทวีอุทิศ,THEVEE U-THIT RD.,"1",Schools_landmark,./0.png
+"145","47040",โรงเรียนสอนคนตาบอดภาคเหนือ,NORTHERN REGION SCHOOL FOR THE BLINDED,ถนนอารักษ์,ARAK RD.,"1",Schools_landmark,./0.png
+"146","47010",โรงเรียนเชียงใหม่คริตเตียน,THE CHANGMAI CHRISTIAN SCHOOL,ถนนเชียงใหม่-ลำพูน,CHIANGMAI-LAMPHUN RD.,"1",Schools_landmark,./0.png
+"147","47010",โรงเรียนเมตตาศึกษา,METTA SUEKSA SCHOOL,ถนนราชมรรคา,RATCHAMANKA RD.,"1",Schools_landmark,./0.png
+"148","47010",โรงเรียนพุทธิโศภน,PHUTTHI SOPHON SCHOOL,ถนนราชมรรคา,RATCHAMANKA RD.,"1",Schools_landmark,./0.png
+"149","47010",โรงเรียนชุมชนบ้านบวกครกน้อย,BAN BUAK KHROK NOI COMMUNITY SCHOOL,ทางหลวงแผ่นดินหมายเลข 1006,HIGHWAY 1006,"1",Schools_landmark,./0.png
+"150","47010",โรงเรียนบ้านสันต้นม่วงใต้,BAN SAN TON MUANG TAI SCHOOL,ถนนโยธาธิการ ชม. 2008 (บ้านต้นเปา-บ้านน้ำแพร่),YOTHATHIKAN CHIANG MAI 2008 RD. (BAN TON PAO-BAN NAM PHRAE),"1",Schools_landmark,./0.png
+"151","47010",โรงเรียนเทศบาลวัดหมื่นเงินกอง,WAT MUEN NGOEN KONG THETSABAN SCHOOL,ถนนราชมรรคา,RATCHAMANKA RD.,"1",Schools_landmark,./0.png
+"152","47010",โรงเรียนวัฒโนทัยพายัพ,WATTANOTHAIPAYAP SCHOOL,ถนนบุญเรืองฤทธิ์,BOONRUANGRIT RD.,"1",Schools_landmark,./0.png
+"153","47020",โรงเรียนเชียงใหม่เทคโนโลยี,CHIANGMAI TECHNOLOGY,ถนนเจริญเมือง,CHAROEN MUANG RD.,"1",Schools_landmark,./0.png
+"154","47020",โรงเรียนพาณิชยการเชียงใหม่,CHIANG MAI COMMERCIAL COLLEGE,ถนนคชสาร,KOTCHASARN RD.,"1",Schools_landmark,./0.png
+"155","47010",โรงเรียนบ้านสันต้นแหน,BAN SAN TON HAN SCHOOL,,,"1",Schools_landmark,./0.png
+"156","47020",โรงเรียนเทคโนโลยีลานนา,LANNA-TECH,ถนนคชสาร,KOTCHASARN RD.,"1",Schools_landmark,./0.png
+"157","47010",โรงเรียนเทศบาลวัดท่าสะต่อย,WAT THA SATOI THETSABAN SCHOOL,ถนนท่าสะต๋อย,THA SA TOY RD.,"1",Schools_landmark,./0.png
+"158","47010",โรงเรียนชุมชนเทศบาลวัดศรีดอนไชย,WAT SI DON CHAI COMMUNITY THETSABAN SCHOOL,ถนนช้างคลาน,CHANG KLAN RD.,"1",Schools_landmark,./0.png
+"159","47010",โรงเรียนบ้านป่าบง,BAN PA BONG SCHOOL,ทางหลวงแผ่นดินหมายเลข 1014,HIGHWAY 1014,"1",Schools_landmark,./0.png
+"160","47010",โรงเรียนกาวิละอนุกูล,KAWILAANUKUL SCHOOL,ถนนสันนาลุง,SANNA LONG RD.,"1",Schools_landmark,./0.png
+"161","47010",โรงเรียนวัดพวกช้าง,WAT PHUAK CHANG SCHOOL,ถนนศรีดอนไชย,SRI DORNCHAI RD.,"1",Schools_landmark,./0.png
+"162","47010",โรงเรียนร้องขุ่น,RONG KHUN SCHOOL,ทางหลวงแผ่นดินหมายเลข 1006,HIGHWAY 1006,"1",Schools_landmark,./0.png
+"163","47010",โรงเรียนไมตรีจิตคริตเตียนเชียงใหม่,MAITRECJIT CHRISTIAN CHIANGMAI SCHOOL,ถนนบ้านใหม่,BAN MAI RD.,"1",Schools_landmark,./0.png
+"164","47010",โรงเรียนเทศบาลวัดศรีสุพรรณ,WAT SI SUPHAN THETSABAN SCHOOL,ถนนวัวลาย,WUALAI RD.,"1",Schools_landmark,./0.png
+"165","47010",โรงเรียนไชยโรจน์วิทยา,CHAI ROT WITTHAYA SCHOOL,ถนนเจริญประเทศ,CHAROEN PRATHET RD.,"1",Schools_landmark,./0.png
+"166","47010",โรงเรียนวชิรวิทย์,WACHIRAWIT SCHOOL,ถนนประชาสัมพันธ์,PRACHA SAMPHAN RD.,"1",Schools_landmark,./0.png
+"167","47010",โรงเรียนเรยีนาเชลีวิทยาลัย,REGINA COELI COLLEGE,ถนนเจริญประเทศ,CHAROEN PRATHET RD.,"1",Schools_landmark,./0.png
+"168","47010",โรงเรียนสันติศึกษา (แผนกอนุบาลประถม),SANTISUKSA SCHOOL,ถนนประชาสัมพันธ์,PRACHA SAMPHAN RD.,"1",Schools_landmark,./0.png
+"169","47010",โรงเรียนพระหฤทัยเชียงใหม่,SACRED HEART COLLEGE,ถนนเจริญประเทศ,CHAROEN PRATHET RD.,"1",Schools_landmark,./0.png
+"170","47010",โรงเรียนจิตราวิทยา,CHITTRA WITTHAYA SCHOOL,ถนนราษฎร์อุทิศ,RAT U-THIT RD.,"1",Schools_landmark,./0.png
+"171","47010",โรงเรียนวัดสันกลางเหนือ,WAT SAN KLANG NUEA SCHOOL,,,"1",Schools_landmark,./0.png
+"172","47010",โรงเรียนมงฟอร์ตวิทยาลัย,M0NTFORT VOLLEGE PRIMARY SECTION,ถนนเจริญประเทศ,CHAROEN PRATHET RD.,"1",Schools_landmark,./0.png
+"173","47040",โรงเรียนแพทย์แผนไทยชีวกโกมารภัจจ์,MASSAGE SCHOOL SHEVAGAKOMARAPAT,ถนนทิพย์เนตร,TIPPANET RD.,"1",Schools_landmark,./0.png
+"174","47020",โรงเรียนไทยวิจิตรศิลป์,THAIVICHITSILP ARTS COLLAGE,ถนนเชียงใหม่-ลำปาง,CHIANG MAI-LAMPANG RD.,"1",Schools_landmark,./0.png
+"175","47010",โรงเรียนบ้านบ่อสร้าง,BAN BO SANG SCHOOL,ถนนดอยสะเก็ด-บ่อสร้าง,DOI SAKET-BO SANG RD.,"1",Schools_landmark,./0.png
+"176","47010",โรงเรียนเทศบาลบ้านศรีปิงเมือง,BAN SI PING MUEANG THETSABAN SCHOOL,ถนนศรีปิงเมือง,SRIPINGMUANG RD.,"1",Schools_landmark,./0.png
+"177","47010",โรงเรียนท่าศาลา,THA SALA SCHOOL,,,"1",Schools_landmark,./0.png
+"178","47010",โรงเรียนบ้านโป่งน้อย,BAN PONG NOI SCHOOL,,,"1",Schools_landmark,./0.png
+"179","47010",โรงเรียนวิชัยวิทยา,THAILAND FATIH PRIVATE HIGH SCHOOL,ถนนช้างคลาน,CHANG KLAN RD.,"1",Schools_landmark,./0.png
+"180","47040",โรงเรียนจินตศึกษาเชียงใหม่,CHINTASUEKSA CHIANG MAI SCHOOL,ถนนเชียงใหม่แลนด์,CHIANGMAILAND RD.,"1",Schools_landmark,./0.png
+"181","47010",โรงเรียนบ้านหนองโค้ง,BAN NONG KHONG SCHOOL,ถนนเชียงใหม่-สันกำแพง,CHIANG MAI-SAN KAMPHAENG RD.,"1",Schools_landmark,./0.png
+"182","47010",โรงเรียนมงฟอร์ตวิทยาลัย,M0NTFORT VOLLEGE PRIMARY SECTION,ทางรถไฟสายเหนือ,NORTHERN RAILWAY,"1",Schools_landmark,./0.png
+"183","47010",โรงเรียนวัดเมืองสาตร,WAT MUEANG SAT SCHOOL,ทางรถไฟสายเหนือ,NORTHERN RAILWAY,"1",Schools_landmark,./0.png
+"184","47010",โรงเรียนกาวิละวิทยาลัย,KAWILA WITTHAYALAI SCHOOL,ถนนโตไพบูลย์,TO PHAIBUN RD.,"1",Schools_landmark,./0.png
+"185","47010",โรงเรียนวัดสันกลางใต้,WAT SAN KLANG TAI SCHOOL,,,"1",Schools_landmark,./0.png
+"186","47010",โรงเรียนจันทคณานุสรณ์,CHANTHA KHANANUSON SCHOOL,ถนนป่าพร้าว 2,PAPHRAO 2 RD.,"1",Schools_landmark,./0.png
+"187","47010",โรงเรียนบ้านห้วยทราย,BAN HUAI SAI SCHOOL,ถนนบ้านต้นกุกหมู่ที่ 7,BAN TON KUK MU 7 RD.,"1",Schools_landmark,./0.png
+"188","47010",โรงเรียนโพธิมงคล,PHOTHI MONGKHON SCHOOL,ทางหลวงแผ่นดินหมายเลข 1317,HIGHWAY 1317,"1",Schools_landmark,./0.png
+"189","47010",โรงเรียนวัดดอนจั่น,WAT DON CHAN SCHOOL,ทางหลวงแผ่นดินหมายเลข 11,HIGHWAY 11,"1",Schools_landmark,./0.png
+"190","47010",โรงเรียนวัดมะฮกฟ้า,WAT MAHOK FA SCHOOL,ถนนโยธาธิการ ชม. (สันมะฮกฟ้า-สันป่าค่า),YOTHATHIKAN CHIANG MAI RD. (SAN MA HOK FA-SAN PA KHA),"1",Schools_landmark,./0.png
+"191","47020",โรงเรียนเทคโนโลยีเอเชีย,ASIA TECHNOLOGY SCHOOL,ถนนเมืองเชียงใหม่ด้านใต้,MUEANG CHIANG MAI DAN TAI RD.,"1",Schools_landmark,./0.png
+"192","47010",โรงเรียนวัดเสาหิน,WAT SAO HIN SCHOOL,ซอยมหิดล 6,SOI MAHIDON 6,"1",Schools_landmark,./0.png
+"193","47010",โรงเรียนวัดสันป่าค่า,WAT SAN PA KHA SCHOOL,ถนนโยธาธิการ ชม. (สันมะฮกฟ้า-สันป่าค่า),YOTHATHIKAN CHIANG MAI RD. (SAN MA HOK FA-SAN PA KHA),"1",Schools_landmark,./0.png
+"194","47010",โรงเรียนวัดป่าแดด,WAT PA DAET SCHOOL,ซอยป่าแดดเหนือ 4,SOI PA DAET NUEA 4,"1",Schools_landmark,./0.png
+"195","47010",โรงเรียนวัดเชียงขาง,WAT CHAING KHANG SCHOOL,,,"1",Schools_landmark,./0.png
+"196","47010",โรงเรียนนานาชาติล้านนา,NANA INTERNATIONAL SCHOOL,ทางหลวงแผ่นดินหมายเลข 108,HIGHWAY 108,"1",Schools_landmark,./0.png
+"197","47010",โรงเรียนศิริมังคลาจารย์,SIRI MANGKHALACHAN SCHOOL,ถนนรวมใจ,RUAM CHAI RD.,"1",Schools_landmark,./0.png
+"198","47010",โรงเรียนบ้านแม่เหี้ยะสามัคคี,BAN MAE HIA SAMAKKHI SCHOOL,ถนนโยธาธิการ ชม. (หมู่ที่ 4 บ้านท่าข้าม-หมู่ที่ 1 ตำบลแม่เหี้ยะ),YOTHATHIKAN CHIANG MAI RD. (MU 4-BAN THA KHAM-MU 1 TAMBON MAE HIA),"1",Schools_landmark,./0.png
+"199","47010",โรงเรียนวัดช้างค้ำ,WAT CHANG KHAM SCHOOL,,,"1",Schools_landmark,./0.png
+"200","47010",โรงเรียนรัฐราษฎรบำรุง,RAT RAT BAMRUNG SCHOOL,ทางรถไฟสายเหนือ,NORTHERN RAILWAY,"1",Schools_landmark,./0.png
+"201","47010",โรงเรียนวัดนันทาราม,WAT NANTHARAM SCHOOL,ถนนรพช. ชม. 5250 (บ้านยวม-บ้านโชค),RO PHO CHO. CHIANG MAI 5250 RD. (BAN YUAM-BAN CHOK),"1",Schools_landmark,./0.png
+"202","47010",โรงเรียนบ้านตองกาย,BAN TONG KAI SCHOOL,ทางหลวงแผ่นดินหมายเลข 121,HIGHWAY 121,"1",Schools_landmark,./0.png
+"203","47010",โรงเรียนวัดพระนอนหนองผึ้ง (จันทราษฎร์ประสาท),WAT PHRA NON NONG PHUENG SCHOOL (CHANTHA RAT PRASAT),ทางหลวงแผ่นดินหมายเลข 106,HIGHWAY 106,"1",Schools_landmark,./0.png
+"204","47010",โรงเรียนวัดบ้านน้อย,WAT BAN NOI SCHOOL,ถนนโยธาธิการ ชม. (บ้านน้อย-ถนนดอนจั่น-น้ำพุร้อน),YOTHATHIKAN CHIANG MAI RD. (BAN NOI-DON CHAN RD.-NAMPHU RON),"1",Schools_landmark,./0.png
+"205","47010",โรงเรียนวัดดอนชัย,WAT DON CHAI SCHOOL,ถนนโยธาธิการ ชม. 2171 (เลียบแม่น้ำปิง),YOTHATHIKAN CHIANG MAI 2171 RD. (LIAP PING RIVER),"1",Schools_landmark,./0.png
+"206","47010",โรงเรียนชุมชนวัดศรีคำชมภู,WAT SI KHAM CHOMPHU COMMUNITY SCHOOL,ถนนรพช. ชม. 4249 (บ้านสันป่าค่า-บ้านไชยสถาน),RO PHO CHO. CHIANG MAI 4249 RD. (BAN SAN PA KHA-BAN CHAIYA SATHAN),"1",Schools_landmark,./0.png
+"207","47010",โรงเรียนสหศีกษา,SAHA SUEKSA SCHOOL,ทางหลวงแผ่นดินหมายเลข 11,HIGHWAY 11,"1",Schools_landmark,./0.png
+"208","47010",โรงเรียนบ้านดอนปิน,BAN DON PIN SCHOOL,ถนนเมฆราประชาบำรุง,MEKHARA PRACHA BANRUNG RD.,"1",Schools_landmark,./0.png
+"209","47010",โรงเรียนสืบนทีธรรม,SUEP NATHI THAM SCHOOL,ถนนโยธาธิการ ชม. 2171 (เลียบแม่น้ำปิง),YOTHATHIKAN CHIANG MAI 2171 RD. (LIAP PING RIVER),"1",Schools_landmark,./0.png
+"210","47010",โรงเรียนวัดกองทราย,WAT KONG SAI SCHOOL,ทางหลวงแผ่นดินหมายเลข 106,HIGHWAY 106,"1",Schools_landmark,./0.png
+"211","47010",โรงเรียนวัดเทพาราม,WAT THEPHARAM SCHOOL,ถนนรพช. ชม. 4090 (บ้านชมพู-บ้านบวกค้าง),RO PHO CHO. CHIANG MAI 4090 RD. (BAN CHOMPHU-BAN BUAK KHANG),"1",Schools_landmark,./0.png
+"212","47010",โรงเรียนนานาชาติเกรซเชียงใหม่,GRACE INTERNATIONAL SCHOOL,ถนนครุยบุณยสิงห์,KRUI PUNYASINGH RD.,"1",Schools_landmark,./0.png
+"213","47010",โรงเรียนวัดป่ากล้วย,WAT PA KLUAI SCHOOL,ถนนโยธาธิการ ชม. 2171 (เลียบแม่น้ำปิง),YOTHATHIKAN CHIANG MAI 2171 RD. (LIAP PING RIVER),"1",Schools_landmark,./0.png
+"214","47010",โรงเรียนบ้านฟ่อน,BAN FON SCHOOL,ถนนบ้านกองขิง,BAN KONG KHING RD.,"1",Schools_landmark,./0.png
+"215","47010",โรงเรียนบ้านป่าตาล,BAN PA TAN SCHOOL,ทางหลวงแผ่นดินหมายเลข 121,HIGHWAY 121,"1",Schools_landmark,./0.png
+"216","47010",โรงเรียนบ้านต้นเกว๋น,BAN TON KWEN SCHOOL,ถนนรพช. ชม. 4002 (บ้านสันป่าสัก-บ้านต้นเกว๋น),RO PHO CHO. CHIANG MAI 4002 RD. (BAN SAN PA SAK-BAN TON KWAEN),"1",Schools_landmark,./0.png
+"217","47010",โรงเรียนวัดป่าตาล,WAT PA TAN SCHOOL,ถนนรพช. ชม. 4090 (บ้านบวกค้าง-บ้านชมพู),RO PHO CHO. CHIANG MAI 4090 RD. (BAN BUAK KHANG-BAN CHOMPHU),"1",Schools_landmark,./0.png
+"218","47010",โรงเรียนวัดท่าใหม่อิ,WAT THA MAI-I SCHOOL,ถนนคสล. ตะแกงหมู่ที่ 5,KHO SO LO. TAKAENG MU 5 RD.,"1",Schools_landmark,./0.png
+"219","47010",โรงเรียนวัดท่าต้นกวาว,WAT THA TON KWAO SCHOOL,ถนนรพช. ชม. 4090 (บ้านบวกค้าง-บ้านชมพู),RO PHO CHO. CHIANG MAI 4090 RD. (BAN BUAK KHANG-BAN CHOMPHU),"1",Schools_landmark,./0.png
+"220","47010",โรงเรียนป่างิ้ว,PA NGIO SCHOOL,ทางหลวงแผ่นดินหมายเลข 121,HIGHWAY 121,"1",Schools_landmark,./0.png
+"221","47010",โรงเรียนวัดบวกครกเหนือ,WAT BUAK KHROK NUEA SCHOOL,ทางหลวงแผ่นดินหมายเลข 121,HIGHWAY 121,"1",Schools_landmark,./0.png
+"222","47010",โรงเรียนวัดเวฬุวัน,WAT WELUWAN SCHOOL,ถนนเชียงใหม่-ลำพูน,CHIANGMAI-LAMPHUN RD.,"1",Schools_landmark,./0.png
+"223","47010",โรงเรียนบ้านสันป่าสัก (สันผักหวานวิทยานุเคราะห์),BAN SAN PA SAK SCHOOL (SAN PHAK WAN WITTHAYANUKHRO),ทางหลวงแผ่นดินหมายเลข 108,HIGHWAY 108,"1",Schools_landmark,./0.png
+"224","47010",โรงเรียนบ้านไร่,BAN RAI SCHOOL,,,"1",Schools_landmark,./0.png
+"225","47010",โรงเรียนวัดตำหนัก,WAT TAMNAK SCHOOL,ถนนคอนกรีตเสริมไม้ไผ่บ้านตำหนักหมู่ที่ 1,BAN TAMNAK MU 1 CONCRETE SOEM MAI PHAI RD.,"1",Schools_landmark,./0.png
+"226","47010",โรงเรียนสารภีพิทยาคม,SARAPHI PHITTHAYAKHOM SCHOOL,ถนนเชียงใหม่-ลำพูน,CHIANGMAI-LAMPHUN RD.,"1",Schools_landmark,./0.png
+"227","47010",โรงเรียนวัดพญาชมภู,WAT PHAYA CHOMPHU SCHOOL,ถนนโยธาธิการ ชม. (หมู่บ้านพญาชมภู),YOTHATHIKAN CHIANG MAI RD. (MU BAN PHAYA CHOMPHU),"1",Schools_landmark,./0.png
+"228","47010",โรงเรียนบ้านสันผักหวาน,BAN SAN PHAK WAN SCHOOL,ถนนโยธาธิการ ชม. 2006 (ทางหลวงแผ่นดินหมายเลข 108-บ้านวังสิงห์คำ),YOTHATHIKAN CHIANG MAI 2006 RD. (HIGHWAY 108-BAN WANG SING KHAM),"1",Schools_landmark,./0.png
+"229","47010",โรงเรียนวรานีกูล,WARANIKUN SCHOOL,ถนนเชียงใหม่-ลำพูน,CHIANGMAI-LAMPHUN RD.,"1",Schools_landmark,./0.png
+"230","47010",โรงเรียนวัดศรีโพธาราม (เตชะเทพอุทิศ),WAT SI PHOTHARAM SCHOOL (TECHA THEP UTHIT),ถนนเชียงใหม่-ลำพูน,CHIANGMAI-LAMPHUN RD.,"1",Schools_landmark,./0.png
+"231","47010",โรงเรียนบ้านต้นงิ้ว,BAN TON NGIO SCHOOL,ถนนโยธาธิการ ชม. 2006 (ทางหลวงแผ่นดินหมายเลข 108-บ้านวังสิงห์คำ),YOTHATHIKAN CHIANG MAI 2006 RD. (HIGHWAY 108-BAN WANG SING KHAM),"1",Schools_landmark,./0.png
+"232","47010",โรงเรียนบ้านท้าวบุญเรือง,BAN THAO BUN RUEANG SCHOOL,ทางหลวงแผ่นดินหมายเลข 108,HIGHWAY 108,"1",Schools_landmark,./0.png
+"233","47010",โรงเรียนวัดวังสิงห์คำ,WAT WANG SING KHAM SCHOOL,ถนนบ้านน้ำบ่อเย็น,BAN NAM BO YEN RD.,"1",Schools_landmark,./0.png
+"234","47010",โรงเรียนบ้านกอสะเลียม,BAN KO SALIAM SCHOOL,ถนนรพช. ชม. 3039 (บ้านแช่ช้าง-บ้านร้องก่องข้าว),RO PHO CHO. CHIANG MAI 3039 RD. (BAN CHAE CHANG-BAN RONG KONG KHAO),"1",Schools_landmark,./0.png
+"235","47010",โรงเรียนบ้านดง,BAN DONG SCHOOL,ถนนคสล. หมู่ที่ 1 (ข้างบ้านพัก),KHO SO LO. MU 1 RD. (KHANG BAN PHAK),"1",Schools_landmark,./0.png
+"236","47010",โรงเรียนบ้านหนองหอย,BAN NONG HOI SCHOOL,ถนนโยธาธิการ ชม. 2061 (บ้านร้อยพร้อม-บ้านหนองหอย-บ้านโป่ง),YOTHATHIKAN CHIANG MAI 2061 RD. (BAN ROI PHROM-BAN NONG HOI-BAN PONG),"1",Schools_landmark,./0.png
+"237","47010",โรงเรียนว้ดสันต้นกอก,WAN SAN TON KOK SCHOOL,ถนนโยธาธิการ ชม. (บ้านตำหนัก-บ้านสันป่ากว๋าว),YOTHATHIKAN CHIANG MAI RD. (BAN TAMNAK-BAN SAN PA KWAO),"1",Schools_landmark,./0.png
+"238","47010",โรงเรียนวัดหนองแฝก (ปัญญาราษฎร์เจริญสุข),WAT NONG FAEK SCHOOL (PANYA RAT CHAROEN SUK),,,"1",Schools_landmark,./0.png
+"239","47010",โรงเรียนวัดช่างคำ,WAT CHANG KHAM SCHOOL,,,"1",Schools_landmark,./0.png
+"240","47010",โรงเรียนบ้านวังศรี,BAN WANG SI SCHOOL,ถนนชลประทาน,CHONLAPRATHAN RD.,"1",Schools_landmark,./0.png
+"241","47010",โรงเรียนวัดบุปผาราม,WAT BUPPHARAM SCHOOL,ถนนโยธาธิการ ชม. (บ้านธิป่าแดง-โรงเรียนบ้านบุปผาราม),YOTHATHIKAN CHIANG MAI RD. (BAN THI PA DAENG-RONG RIAN BAN BUPPHARAM),"1",Schools_landmark,./0.png
+"242","47010",โรงเรียนวัดจอมทอง,WAT CHOM THONG SCHOOL,ถนนรพช. ชม. 3011 (บ้านต้นงิ้ว-บ้านจอมทอง),RO PHO CHO. CHIANG MAI 3011 RD.(BAN TON NGIO-BAN CHOM THONG),"1",Schools_landmark,./0.png
+"243","47010",โรงเรียนวัดสารภี (สมบรูณ์ประชาสฤษฎ์),WAT SARAPHI SCHOOL (SOMBUN PRACHA SARIT),ทางหลวงแผ่นดินหมายเลข 106,HIGHWAY 106,"1",Schools_landmark,./0.png
+"244","47010",โรงเรียนบ้านน้ำแพร่,BAN NAM PHRAE SCHOOL,,,"1",Schools_landmark,./0.png
+"245","47010",โรงเรียนหางดงสังฆราษฏร์อุปถัมภ์,HANG DONG SANGKHARAT UPPATHAM SCHOOL,ถนนเชียงใหม่-ฮอด,CHIANG MAI-HOT RD.,"1",Schools_landmark,./0.png
+"246","47010",โรงเรียนวัดกู่แดง,WAT KU DAENG SCHOOL,,,"1",Schools_landmark,./0.png
+"247","47010",โรงเรียนบ้านสันทราย,BAN SAN SAI SCHOOL,ถนนลาดยางเลียบคันคลองชลประทาน (ช่างคำน้อย-สันทราย-สารภี-ขุนคง),LAT YANG LIAP KAN KHLONG CHONLAPRATHAN RD. (CHANGKHAMNOI-SANSAI-SARAPHI-KHUNDON),"1",Schools_landmark,./0.png
+"248","47010",โรงเรียนบ้านร้องก่องข้าว,BAN RONG KONG KHAO SCHOOL,ถนนรพช. ชม. 3039 (บ้านแช่ช้าง-บ้านร้องก่องข้าว),RO PHO CHO. CHIANG MAI 3039 RD. (BAN CHAE CHANG-BAN RONG KONG KHAO),"1",Schools_landmark,./0.png
+"249","47010",โรงเรียนเวียงเศรษฐีวิทยา,WIANG SETTHI WITTHAYA SCHOOL,ถนนโยธาธิการ ชม. 2080 (บ้านปากกอง-บ้านหนองสี่แจ่ง),YOTHATHIKAN CHIANG MAI 2080 RD. (BAN PAK KONG-BAN NONG SI CHAENG),"1",Schools_landmark,./0.png
+"250","47010",โรงเรียนบ้านทรายมูล (นารถเกษมสงเคราะห์),BAN SAI MUN SCHOOL (NAT KASEM SONGKHRO),ถนนเชียงใหม่-ฮอด,CHIANG MAI-HOT RD.,"1",Schools_landmark,./0.png
+"251","47010",โรงเรียนบ้านปากเหมือง,BAN PAK MUEANG SCHOOL,ถนนรพช. ชม. 4091 (บ้านป่าเดื่อ-บ้านร้องปู่หม่น),RO PHO CHO. CHIANG MAI 4091 RD. (BAN PA DUEA-BAN RONG PU MON),"1",Schools_landmark,./0.png
+"252","47010",โรงเรียนวัดแม่สะลาบ,WAT MAE SALAP SCHOOL,ถนนโยธาธิการ ชม. (บ้านแม่สะลาบ-บ้านร่มป่าตอง),YOTHATHIKAN CHIANG MAI RD. (BAN MAE SALAP-BAN ROM PA TONG),"1",Schools_landmark,./0.png
+"253","47010",โรงเรียนบ้านต้นแก้ว,BAN TON KAEO SCHOOL,ถนนโยธาธิการ ชม. 2024 (ทางแยกเข้าบ้านถวาย),YOTHATHIKAN CHIANG MAI 2024 RD. (THANG YAEK KHAO BAN THAWAI),"1",Schools_landmark,./0.png
+"254","47010",โรงเรียนหางดงรัฐราษฎร์อุปถัมภ์,HANG DONG RAT RAT UPPATHAM SCHOOL,ถนนเชียงใหม่-ฮอด,CHIANG MAI-HOT RD.,"1",Schools_landmark,./0.png
+"255","47010",โรงเรียนชุมชนวัดปากกอง (อินทราษฎร์ประสิทธิ์วิทยา),WAT PAK KONG COMMUNITY SCHOOL (INTHARAT PRASIT WITTHATA),ถนนโยธาธิการ ชม. 2080 (บ้านปากกอง-บ้านหนองสี่แจ่ง),YOTHATHIKAN CHIANG MAI 2080 RD. (BAN PAK KONG-BAN NONG SI CHAENG),"1",Schools_landmark,./0.png
+"256","47010",โรงเรียนวัดไชยสถาน,WAT CHAI SATHAN SCHOOL,ถนนชลประทาน,CHONLAPRATHAN RD.,"1",Schools_landmark,./0.png
+"257","47010",โรงเรียนเยาวลักษณ์วิทยาหางดง,YAOWALAK WITTHAYA HANG DONG SCHOOL,ถนนโยธาธิการ ชม. (บ้านสันปูเลย-บ้านหนองแก๋ว),YOTHATHIKAN CHIANG MAI RD. (BAN SAN PU LOEI-BAN NONG KAEO),"1",Schools_landmark,./0.png
+"258","47010",โรงเรียนบ้านหนองโขง,BAN NONG KHONG SCHOOL,ถนนลาดยางเลียบคันคลองชลประทาน (ช่างคำน้อย-สันทราย-สารภี-ขุนคง),LAT YANG LIAP KAN KHLONG CHONLAPRATHAN RD. (CHANGKHAMNOI-SANSAI-SARAPHI-KHUNDON),"1",Schools_landmark,./0.png
+"259","45110",โรงเรียนวัดขัวมุง,WAT KHUA MUNG SCHOOL,ถนนโยธาธิการ ชม. 2043 (บ้านขัวมุง-บ้านเดื่องก),YOTHATHIKAN CHIANG MAI 2043 RD. (BAN KHUA MUNG-BAN DUEA NGOK),"1",Schools_landmark,./0.png
+"260","47010",โรงเรียนวัดศรีสุพรรณ,WAT SI SUPHAN SCHOOL,ถนนโยธาธิการ ชม. (บ้านสันปูเลย-บ้านหนองแก๋ว),YOTHATHIKAN CHIANG MAI RD. (BAN SAN PU LOEI-BAN NONG KAEO),"1",Schools_landmark,./0.png
+"261","47010",โรงเรียนบ้านแสนตอ,BAN SAEN TO SCHOOL,,,"1",Schools_landmark,./0.png
+"262","47010",โรงเรียนวัดขุนคง,WAT KHUN KHONG SCHOOL,ถนนลาดยางเลียบคันคลองชลประทาน (ช่างคำน้อย-สันทราย-สารภี-ขุนคง),LAT YANG LIAP KAN KHLONG CHONLAPRATHAN RD. (CHANGKHAMNOI-SANSAI-SARAPHI-KHUNDON),"1",Schools_landmark,./0.png
+"263","47010",โรงเรียนวัดหัวดง,WAT HUA DONG SCHOOL,ถนนรพช. ชม. 4091 (บ้านป่าเดื่อ-บ้านร้องปู่หม่น),RO PHO CHO. CHIANG MAI 4091 RD. (BAN PA DUEA-BAN RONG PU MON),"1",Schools_landmark,./0.png
+"264","47020",โรงเรียนเทคโนโลยีไทยญี่ปุ่น-เยอรมัน,THAI JAPAN-GERMANY TECHNOLOGY SCHOOL,,,"1",Schools_landmark,./0.png
+"265","47010",โรงเรียนบ้านท่าขุนคง,BAN THA KHUN KHONG SCHOOL,ถนนชลประทาน,CHONLAPRATHAN RD.,"1",Schools_landmark,./0.png
+"266","47010",โรงเรียนวัดศรีล้อม,WAT SI LOM SCHOOL,ทางหลวงแผ่นดินหมายเลข 108,HIGHWAY 108,"1",Schools_landmark,./0.png
+"267","47010",โรงเรียนวัดอุทุมพราราม,WAT UTHUM PHARARAM SCHOOL,ถนนโยธาธิการ ชม. 2043 (บ้านขัวมุง-บ้านเดื่องก),YOTHATHIKAN CHIANG MAI 2043 RD. (BAN KHUA MUNG-BAN DUEA NGOK),"1",Schools_landmark,./0.png
+"268","47010",โรงเรียนบ้านร้องแหย่ง,BAN RONG YAENG SCHOOL,,,"1",Schools_landmark,./0.png
+"269","47010",โรงเรียนวัดสันดอนมูล,WAT SAN DON MUN SCHOOL,ถนนรพช. ชม. 5207 (บ้านแคว-บ้านในแคว),RO PHO CHO. CHIANG MAI 5207 RD. (BAN KHWAE-BAN NAI KHWAE),"1",Schools_landmark,./0.png
